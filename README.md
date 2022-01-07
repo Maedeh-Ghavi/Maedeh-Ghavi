@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maedeh-Ghavi
 - 👀 I’m interested in html,css
-- 🌱 I’m currently learning front-end developer
+- 🌱 I’m currently learning front-end programming
 
 
 <!---
